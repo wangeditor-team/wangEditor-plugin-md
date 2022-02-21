@@ -1,2 +1,3 @@
-# wangEditor-plugin-md
-wangEditor markdown plugin
+# wangEditor markdown 插件
+
+开发中...
