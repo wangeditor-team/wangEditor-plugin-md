@@ -7,7 +7,7 @@ import { SlateEditor, IDomEditor } from '@wangeditor/editor'
 import createEditor from '../utils/create-editor'
 import withMarkdown from '../../src/module/plugin'
 
-describe('mention plugin', () => {
+describe('markdown plugin', () => {
   let editor = withMarkdown(createEditor({}))
   function getStartLocation(editor: IDomEditor) {
     return SlateEditor.start(editor, [])

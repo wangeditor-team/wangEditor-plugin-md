@@ -27,7 +27,7 @@ module.exports = merge(webpackCommonConf, {
     filename: 'index.js',
     path: distPath,
     library: {
-      name: 'WangEditorPluginMention',
+      name: 'WangEditorPluginMD',
       type: 'umd',
     },
   },
