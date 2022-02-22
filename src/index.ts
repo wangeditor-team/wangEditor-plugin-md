@@ -3,4 +3,6 @@
  * @author wangfupeng
  */
 
-console.log('src entry')
+import module from './module/index'
+
+export default module

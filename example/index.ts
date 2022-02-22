@@ -4,11 +4,10 @@
  */
 
 import { IDomEditor, createEditor, createToolbar, Boot, IEditorConfig } from '@wangeditor/editor'
-// import module from '../src/index'
-import '../src/index'
+import module from '../src/index'
 
 // 注册
-// Boot.registerModule(module)
+Boot.registerModule(module)
 
 // 编辑器配置
 const editorConfig: Partial<IEditorConfig> = {
