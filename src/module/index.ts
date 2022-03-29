@@ -3,7 +3,7 @@
  * @author wangfupeng
  */
 
-import { IModuleConf } from '@wangeditor/core'
+import { IModuleConf } from '@wangeditor/editor'
 
 import withMarkdown from './plugin'
 
