@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Use basic markdown syntax in [wangEditor](https://www.wangeditor.com/v5/en/).
+Use basic markdown syntax in [wangEditor](https://www.wangeditor.com/en/).
 
 - Header
   - `#`

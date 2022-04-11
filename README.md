@@ -4,7 +4,7 @@
 
 ## 介绍
 
-在 [wangEditor](https://www.wangeditor.com/v5/) 中使用基本的 markdown 语法。
+在 [wangEditor](https://www.wangeditor.com/) 中使用基本的 markdown 语法。
 
 - 标题
   - `#`

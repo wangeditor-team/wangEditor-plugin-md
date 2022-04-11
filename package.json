@@ -1,6 +1,6 @@
 {
   "name": "@wangeditor/plugin-md",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "wangEditor markdown plugin",
   "repository": {
     "type": "git",
@@ -56,7 +56,7 @@
     "@types/jest": "^27.4.0",
     "@typescript-eslint/eslint-plugin": "^5.12.0",
     "@typescript-eslint/parser": "^5.12.0",
-    "@wangeditor/editor": "^0.15.17",
+    "@wangeditor/editor": "^5.0.0",
     "autoprefixer": "^10.2.5",
     "babel-jest": "^27.3.1",
     "babel-loader": "^8.2.2",
@@ -93,7 +93,7 @@
     "webpack-merge": "^5.7.3"
   },
   "peerDependencies": {
-    "@wangeditor/editor": ">=0.15.17"
+    "@wangeditor/editor": ">=5.0.0"
   },
   "dependencies": {}
 }
